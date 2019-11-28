@@ -17,11 +17,11 @@ SERVER_ID = "5cf58b0c00594b6196153ca15d0f6516"
 SECRET_KEY_NAME = "private_20191128114106.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://new-lwbottest.herokuapp.com/"
+LOCAL_ADDRESS = "https://lwbottest02.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-23-21-248-1.compute-1.amazonaws.com"
-DB_NAME = "de2kf5t286uo95"
-DB_USER = "cnheadzjcrynjl"
+DB_HOST = "ec2-174-129-205-197.compute-1.amazonaws.com"
+DB_NAME = "ddq2blgriq38ri"
+DB_USER = "ddqyrinitfsjgg"
 DB_PORT = "5432"
-DB_PASSWORD = "018bc93fcc4decacbe3f718ba007e8b5af04bc75421f0e5cc03212b3dbb7b71f"
+DB_PASSWORD = "f148e7a802cbbc667b2fce3c6b156edfa480810913ee7db037474712eb4a2433"
