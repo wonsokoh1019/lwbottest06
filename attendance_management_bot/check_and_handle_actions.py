@@ -149,3 +149,4 @@ class CheckAndHandleActions:
         else:
             raise HTTPError(400, "Error 'callback' type.")
         return
+
